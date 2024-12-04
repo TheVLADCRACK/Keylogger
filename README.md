@@ -1,7 +1,7 @@
 # 🛡️ Keylogger en C - Éducatif
 
 **Auteur** : VLADCRACK  
-**Contact** : [t.me/TheVLADCRACK_237](https://t.me/TheVLADCRACK_237)  
+**Contact** : [The VLADCRACK](https://t.me/TheVLADCRACK_237)  
 
 Ce programme en C est un **keylogger** simple conçu à des fins éducatives. Il capture les frappes du clavier en temps réel et les enregistre dans un fichier de log nommé `keylog.txt`.
 
