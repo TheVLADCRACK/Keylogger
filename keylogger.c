@@ -1,5 +1,5 @@
           //Author  : VLADCRACK
-          //Contact : t.me/VLADCRACK_237
+          //Contact : t.me/TheVLADCRACK_237
           //License :  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> 
           //[Attention] Je ne suis en rien responsable de l'usage de ce programme [Attention]
 
